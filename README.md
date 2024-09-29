@@ -3,12 +3,11 @@
 ## Step to run project
 
 '''bash
-    python -m venv myenv
+    conda create -n mchatbot python=3.8 -y
 '''
 
-'''activate python environment
-    cd myenv/Script
-    activate
+'''bash
+    conda activate mchatbot
 '''
 
 '''bash
